@@ -1,0 +1,16 @@
+# Requirements for EVERYTHING WITH GESTURES project
+
+# OpenCV and cvzone
+cvzone
+opencv-python
+
+# mediapipe
+mediapipe
+
+# Streamlit
+streamlit
+
+# Additional requirements
+wheel
+
+
