@@ -42,11 +42,24 @@ Follow these steps to get EVERYTHING WITH GESTURES up and running in your enviro
    pip install streamlit opencv-python cvzone
    ```
 
+
+### Step 4: Generate your own Google Gemini API token:
+1. In any browser of your wish, open Google for Developers Webpage and then navigate to the QuickStart of the Gemini API.
+   
+2. Get your own API Key, based on the version and your requirements of the Requests, etc,. and paste the same in the `index.py` file. (You can use mine too!, but..) 
+
+
 ### Step 5: Run the Application
 1. In the command prompt or terminal of the directory, run the following command:
    ```bash
    streamlit run index.py
    ```
+
+### Step 6: 
+1. In the command prompt or terminal of the directory, run the following command:
+   ```bash
+   streamlit run index.py
+   ```   
 
 This will start the Streamlit application, and you can begin using EVERYTHING WITH GESTURES.
 Feel free to modify and change it according to your needs!!
