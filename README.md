@@ -31,7 +31,12 @@ Follow these steps to get EVERYTHING WITH GESTURES up and running in your enviro
 ### Step 3: Install Required Files
 1. Download and place `index.py` and `image.png` in your project directory.
 
-### Step 4: Install Dependencies
+### Step 4: Install Dependencies or run the requirements.txt file by command:
+1. Through requirements.txt:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   OR
 1. Ensure you have Streamlit and other dependencies installed:
    ```bash
    pip install streamlit opencv-python cvzone
